@@ -1,0 +1,4 @@
+,Ticker,batch_size,dropout_rate,epochs,neurons
+0,PETR4,16,0.2,50,75
+1,ITUB4,16,0.3,50,75
+2,MGLU3,16,0.1,25,75
